@@ -1,7 +1,7 @@
 # CodeSurfing Development
 
 [![GitHub forks](https://img.shields.io/github/forks/rioagungpurnomo/codesurfing.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/rioagungpurnomo/codesurfing/network/)
-[![Package Control total downloads](https://img.shields.io/packagecontrol/dt/rioagungpurnomo/codesurfing.svg)](https://packagecontrol.io/packages/rioagungpurnomo/codesurfing)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/rioagungpurnomo/codesurfing/)
 [![GitHub release](https://img.shields.io/github/release/rioagungpurnomo/codesurfing.svg)](https://GitHub.com/rioagungpurnomo/codesurfing/releases/)
 [![GitHub stars](https://img.shields.io/github/stars/rioagungpurnomo/codesurfing.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/rioagungpurnomo/codesurfing/stargazers/)
 [![GitHub license](https://img.shields.io/github/license/rioagungpurnomo/codesurfing.svg)](https://github.com/rioagungpurnomo/codesurfing/blob/main/LICENSE)
