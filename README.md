@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/rioagungpurnomo/codesurfing.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/rioagungpurnomo/codesurfing/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/rioagungpurnomo/codesurfing.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/rioagungpurnomo/codesurfing/network/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/rioagungpurnomo/codesurfing/)
-[![Github all releases](https://img.shields.io/github/downloads/rioagungpurnomo/codesurfing/total.svg)](https://GitHub.com/rioagungpurnomo/codesurfing/releases/)
+[![Downloads](https://poser.pugx.org/rioagungpurnomo/codesurfing/downloads)](https://packagist.org/packages/rioagungpurnomo/codesurfing)
 [![GitHub release](https://img.shields.io/github/release/rioagungpurnomo/codesurfing.svg)](https://GitHub.com/rioagungpurnomo/codesurfing/releases/)
 [![GitHub license](https://img.shields.io/github/license/rioagungpurnomo/codesurfing.svg)](https://github.com/rioagungpurnomo/codesurfing/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/rioagungpurnomo/codesurfing.svg)](https://GitHub.com/rioagungpurnomo/codesurfing/graphs/contributors/)
