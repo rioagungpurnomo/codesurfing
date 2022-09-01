@@ -1,6 +1,10 @@
 # CodeSurfing Development
 # What is CodeIgniter?
 
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/rioagungpurnomo/codesurfing/releases/)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/rioagungpurnomo/codesurfing/releases/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/rioagungpurnomo/codesurfing/blob/main/LICENSE)
+
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure. More information can be found at the [official site](https://codesurfing.com).
 
 This repository holds the source code for CodeIgniter 4 only. Version 4 is a complete rewrite to bring the quality and the code into a more modern version, while still keeping as many of the things intact that has made people love the framework over the years.
