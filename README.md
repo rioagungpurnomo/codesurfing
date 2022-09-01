@@ -2,6 +2,7 @@
 
 [![Github all releases](https://img.shields.io/github/downloads/rioagungpurnomo/codesurfing/total.svg)](https://GitHub.com/rioagungpurnomo/codesurfing/releases/)
 [![GitHub release](https://img.shields.io/github/release/rioagungpurnomo/codesurfing.svg)](https://GitHub.com/rioagungpurnomo/codesurfing/releases/)
+[![GitHub stars](https://img.shields.io/github/stars/rioagungpurnomo/codesurfing.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/rioagungpurnomo/codesurfing/stargazers/)
 [![GitHub license](https://img.shields.io/github/license/rioagungpurnomo/codesurfing.svg)](https://github.com/rioagungpurnomo/codesurfing/blob/main/LICENSE)
 
 # What is CodeIgniter?
