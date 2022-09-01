@@ -1,10 +1,11 @@
 # CodeSurfing Development
 
 [![GitHub forks](https://img.shields.io/github/forks/rioagungpurnomo/codesurfing.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/rioagungpurnomo/codesurfing/network/)
-[![Github all releases](https://img.shields.io/github/downloads/rioagungpurnomo/codesurfing/total.svg)](https://GitHub.com/rioagungpurnomo/codesurfing/releases/)
+[![Package Control total downloads](https://img.shields.io/packagecontrol/dt/rioagungpurnomo/codesurfing.svg)](https://packagecontrol.io/packages/rioagungpurnomo/codesurfing)
 [![GitHub release](https://img.shields.io/github/release/rioagungpurnomo/codesurfing.svg)](https://GitHub.com/rioagungpurnomo/codesurfing/releases/)
 [![GitHub stars](https://img.shields.io/github/stars/rioagungpurnomo/codesurfing.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/rioagungpurnomo/codesurfing/stargazers/)
 [![GitHub license](https://img.shields.io/github/license/rioagungpurnomo/codesurfing.svg)](https://github.com/rioagungpurnomo/codesurfing/blob/main/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/rioagungpurnomo/codesurfing.svg)](https://GitHub.com/rioagungpurnomo/codesurfing/graphs/contributors/)
 
 # What is CodeIgniter?
 
@@ -27,5 +28,5 @@ This means that you should configure your web server to "point" to your project'
 Please read the user guide for a better explanation of how CS works!
 
 # Contributors
-Kami menerima kontribusi dari komunitas! Tidak masalah apakah Anda dapat membuat kode, menulis dokumentasi, atau membantu menemukan bug, semua kontribusi diterima.
+We are accepting contributions from the community! It doesn't matter whether you can code, write documentation, or help find bugs, all contributions are welcome.
 ![Your Repository's Stats](https://contrib.rocks/image?repo=rioagungpurnomo/codesurfing)
