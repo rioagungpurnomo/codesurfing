@@ -29,5 +29,11 @@ This means that you should configure your web server to "point" to your project'
 Please read the user guide for a better explanation of how CS works!
 
 # Contributors
-We are accepting contributions from the community! It doesn't matter whether you can code, write documentation, or help find bugs, all contributions are welcome.
-![Your Repository's Stats](https://contrib.rocks/image?repo=rioagungpurnomo/codesurfing)
+We **are** accepting contributions from the community! It doesn't matter whether you can code, write documentation, or help find bugs, 
+all contributions are welcome.  
+
+<a href="https://github.com/rioagungpurnomo/codesurfing/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rioagungpurnomo/codesurfing" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
