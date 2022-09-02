@@ -6,17 +6,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to CodeSurfing</title>
-    <link rel="shortcut icon" href="https://f216-114-4-83-0.ap.ngrok.io/codesurfing/assets/images/favicon.ico" type="image/x-icon">
-    <link href="https://f216-114-4-83-0.ap.ngrok.io/codesurfing/assets/font-awesome/css/all.min.css" rel="stylesheet">
-    <link href="https://f216-114-4-83-0.ap.ngrok.io/codesurfing/assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://f216-114-4-83-0.ap.ngrok.io/codesurfing/assets/css/codesurfing.css" rel="stylesheet">
+    <link rel="shortcut icon" href="https://codesurfing.herokuapp.com/assets/images/favicon.ico" type="image/x-icon">
+    <link href="https://codesurfing.herokuapp.com/assets/font-awesome/css/all.min.css" rel="stylesheet">
+    <link href="https://codesurfing.herokuapp.com/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://codesurfing.herokuapp.com/assets/css/codesurfing.css" rel="stylesheet">
 </head>
 
 <body>
 
     <nav class="navbar navbar-expand-md navbar-light bg-white sticky-top border-bottom">
         <div class="container">
-            <a class="navbar-brand mb-0" href="#"><img src="https://f216-114-4-83-0.ap.ngrok.io/codesurfing/assets/images/codesurfing.png" class="logo me-1" alt="Codesurfing"><span class="text-codeigniter">Code</span><span class="text-codesurfing fw-semibold">Surfing</span></a>
+            <a class="navbar-brand mb-0" href="#"><img src="https://codesurfing.herokuapp.com/assets/images/codesurfing.png" class="logo me-1" alt="Codesurfing"><span class="text-codeigniter">Code</span><span class="text-codesurfing fw-semibold">Surfing</span></a>
             <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -96,7 +96,7 @@
         </div>
     </footer>
 
-    <script src="https://f216-114-4-83-0.ap.ngrok.io/codesurfing/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="https://codesurfing.herokuapp.com/assets/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
