@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to CodeSurfing</title>
     <link rel="shortcut icon" href="https://codesurfing.herokuapp.com/assets/images/favicon.ico" type="image/x-icon">
-    <link href="https://codesurfing.herokuapp.com/assets/font-awesome/css/all.min.css" rel="stylesheet">
     <link href="https://codesurfing.herokuapp.com/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://codesurfing.herokuapp.com/assets/font-awesome/css/all.min.css" rel="stylesheet">
     <link href="https://codesurfing.herokuapp.com/assets/css/codesurfing.css" rel="stylesheet">
 </head>
 
