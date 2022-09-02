@@ -22,12 +22,12 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <li class="nav-item"><a class="nav-link" href="#">News</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Discuss</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Contribute</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://codesurfing.herokuapp.com/news">News</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://codesurfing.herokuapp.com/discuss">Discuss</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://codesurfing.herokuapp.com/contribute">Contribute</a></li>
                 </ul>
                 <div class="d-flex" role="search">
-                    <a href="#" class="btn btn-codesurfing me-2 btn-md" type="button">Documentation</a>
+                    <a href="https://codesurfing.herokuapp.com/docs" class="btn btn-codesurfing me-2 btn-md" type="button">Documentation</a>
                 </div>
             </div>
         </div>
