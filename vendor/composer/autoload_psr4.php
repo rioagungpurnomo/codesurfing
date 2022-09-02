@@ -6,5 +6,6 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Codesurfing\\Appstarter\\' => array($baseDir . '/src'),
+    'Codesurfing\\System\\' => array($baseDir . '/system'),
+    'Codesurfing\\App\\' => array($baseDir . '/app'),
 );

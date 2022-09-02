@@ -9,14 +9,19 @@ class ComposerStaticInite43129a9537d8be7e3a0aae5c75448bb
     public static $prefixLengthsPsr4 = array (
         'C' => 
         array (
-            'Codesurfing\\Appstarter\\' => 23,
+            'Codesurfing\\System\\' => 19,
+            'Codesurfing\\App\\' => 16,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Codesurfing\\Appstarter\\' => 
+        'Codesurfing\\System\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/system',
+        ),
+        'Codesurfing\\App\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/app',
         ),
     );
 
