@@ -47,12 +47,12 @@
             <p class="fs-6">If you would like to edit this page you will find it located at:</p>
 
             <div class="alert alert-light bg-light border text-dark rounded" role="alert">
-                application/Views/welcome_message.php
+                app/Views/welcome_message.php
             </div>
 
             <p class="fs-6">The corresponding controller for this page can be found at:</p>
             <div class="alert alert-light bg-light border text-dark rounded" role="alert">
-                application/Controllers/Welcome.php
+                app/Controllers/Welcome.php
             </div>
         </div>
     </div>
