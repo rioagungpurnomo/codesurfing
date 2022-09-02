@@ -1,0 +1,26 @@
+{
+    "name": "codesurfing/appstarter",
+    "description": "CodeSurfing starter app",
+    "keywords": ["framework", "php", "codesurfing"],
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Codesurfing\\App\\": "app/",
+            "Codesurfing\\System\\": "system/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rio Agung Purnomo",
+            "email": "rioagungpurnomo.ak@gmail.com",
+            "homepage": "https://codesurfing.herokuapp.com/"
+        }
+    ],
+    "require": {
+        "php": "^8.1.0"
+    },
+    "scripts": {
+        "server": "php -S localhost:8080"
+    }
+}
