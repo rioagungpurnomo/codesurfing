@@ -75,7 +75,7 @@ function cs_notification($level, $message, $file, $line)
         echo "<div style='width: auto; padding-right: calc(1.5rem * 0.5); padding-left: calc(1.5rem * 0.5); margin-right: auto; margin-left: auto; height: auto; word-wrap: break-word;'>
         <div style='position: relative; padding: 1rem 1rem; margin-bottom: 1rem; margin-top: 1rem; color: $color; background-color: $background; border: 1px solid $border_color; border-radius: 0.375rem; word-wrap: break-word;'>
             <h4 style='color: inherit; margin-top: 0; word-wrap: break-word;'>$title!</h4>
-            <p style='margin-bottom: 0; word-wrap: break-word;'>[{$level}] {$message} - {$file}:{$line}</p>
+            <p style='margin-bottom: 0; word-wrap: break-word;'>[{$level}] {$message} - {$file}:{$line} | <a href='https://www.google.com/search?q=" . urlencode($message) . "' target='_blank' style='font-weight: 700; color: inherit; text-decoration: none;'>Search &#10140;</a></p>
         </div>
     </div>";
     }
