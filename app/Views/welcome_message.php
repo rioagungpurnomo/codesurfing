@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to CodeSurfing</title>
     <link rel="shortcut icon" href="https://codesurfing.herokuapp.com/assets/images/favicon.ico" type="image/x-icon">
-    <link href="https://codesurfing.herokuapp.com/assets/font-awesome/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <link href="https://codesurfing.herokuapp.com/assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://codesurfing.herokuapp.com/assets/css/codesurfing.css" rel="stylesheet">
 </head>
@@ -61,7 +61,7 @@
         <div class="container py-5">
             <div class="d-flex">
                 <div class="flex-shrink-0">
-                    <i class="fad fa-books fa-2x text-codesurfing"></i>
+                    <i class="bi bi-book text-codesurfing display-6"></i>
                 </div>
                 <div class="flex-grow-1 ms-3">
                     <h5>Documentation</h5>
@@ -70,7 +70,7 @@
             </div>
             <div class="d-flex mt-5 mb-5">
                 <div class="flex-shrink-0">
-                    <i class="fad fa-comments fa-2x text-codesurfing"></i>
+                    <i class="bi bi-chat-text text-codesurfing display-6"></i>
                 </div>
                 <div class="flex-grow-1 ms-3">
                     <h5>Discuss</h5>
