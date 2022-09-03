@@ -19,9 +19,13 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": "^8.1.0"
+        "php": "^7.4 || ^8.0"
     },
     "scripts": {
         "server": "php -S localhost:8080"
+    },
+     "support": {
+        "forum": "https://codesurfing.herokuapp.com/forum",
+        "source": "https://github.com/rioagungpurnomo/codesurfing"
     }
 }
