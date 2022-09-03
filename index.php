@@ -19,7 +19,7 @@ function load_page()
 
 function cs_notification($level, $message, $file, $line)
 {
-    if (CS_ENVIRONMENT == 'development') {
+    if (CS_ENVIRONMENT != 'production') {
         if ($level == 1) {
             $title = 'ERROR';
             $color = '#842029';
@@ -81,7 +81,7 @@ function cs_notification($level, $message, $file, $line)
 }
 
 register_shutdown_function(function () {
-    if (CS_ENVIRONMENT == 'development') {
+    if (CS_ENVIRONMENT != 'production') {
         if (error_get_last()) {
             $error = (object) error_get_last();
 

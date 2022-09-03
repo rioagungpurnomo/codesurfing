@@ -2,7 +2,7 @@
 
 class File
 {
-    public static function upload($data, $tmp, $nameUniqid = false, $size = 1000000, $type = ['jpg', 'jpeg', 'png'])
+    public function upload($data, $tmp, $nameUniqid = false, $size = 1000000, $type = ['jpg', 'jpeg', 'png'])
     {
         $nameFile = $_FILES[$data]['name'];
         $sizeFile = $_FILES[$data]['size'];
@@ -71,7 +71,7 @@ class File
         }
     }
 
-    public static function delete($tmp, $file)
+    public function delete($tmp, $file)
     {
         if (substr($tmp, strlen($tmp) - 1) == '/') {
             $folder = $tmp;

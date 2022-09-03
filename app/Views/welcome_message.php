@@ -22,12 +22,12 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <li class="nav-item"><a class="nav-link" href="https://codesurfing.herokuapp.com/news">News</a></li>
-                    <li class="nav-item"><a class="nav-link" href="https://codesurfing.herokuapp.com/discuss">Discuss</a></li>
-                    <li class="nav-item"><a class="nav-link" href="https://codesurfing.herokuapp.com/contribute">Contribute</a></li>
+                    <li class="nav-item"><a class="nav-link" target="_blank" href="https://codesurfing.herokuapp.com/news">News</a></li>
+                    <li class="nav-item"><a class="nav-link" target="_blank" href="https://codesurfing.herokuapp.com/discuss">Discuss</a></li>
+                    <li class="nav-item"><a class="nav-link" target="_blank" href="https://codesurfing.herokuapp.com/contribute">Contribute</a></li>
                 </ul>
                 <div class="d-flex" role="search">
-                    <a href="https://codesurfing.herokuapp.com/docs" class="btn btn-codesurfing me-2 btn-md" type="button">Documentation</a>
+                    <a target="_blank" href="https://codesurfing.herokuapp.com/docs" class="btn btn-codesurfing me-2 btn-md" type="button">Documentation</a>
                 </div>
             </div>
         </div>
@@ -35,7 +35,7 @@
 
     <div class="mb-4 bg-light rounded-3">
         <div class="container py-5">
-            <h1 class="display-6 fw-semibold">Welcome to CodeSurfing 1.1.0</h1>
+            <h1 class="display-6 fw-semibold">Welcome to CodeSurfing 1.2.0</h1>
             <p class="fs-5">The small framework with powerful features</p>
         </div>
     </div>
@@ -74,7 +74,7 @@
                 </div>
                 <div class="flex-grow-1 ms-3">
                     <h5>Discuss</h5>
-                    <p class="fs-6">CodeSurfing is a community-developed open source project, with several vanues for the community members to gather and exchange ideas. View all the threads <a href="https://codesurfing.herokuapp.com/forum" class="text-decoration-none text-codesurfing">CodeSurfing's forum</a> !</p>
+                    <p class="fs-6">CodeSurfing is a community-developed open source project, with several vanues for the community members to gather and exchange ideas. View all the threads <a target="_blank" href="https://codesurfing.herokuapp.com/forum" class="text-decoration-none text-codesurfing">CodeSurfing's forum</a> !</p>
                 </div>
             </div>
         </div>
