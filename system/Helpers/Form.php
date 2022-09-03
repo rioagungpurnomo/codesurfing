@@ -54,7 +54,7 @@ class Form
                     unset($_SESSION["csrf_token"]);
                 } else {
                     unset($_SESSION["csrf_token"]);
-                    redirect(base_url('404'));
+                    return false;
                     exit;
                 }
             }
@@ -64,7 +64,7 @@ class Form
                     unset($_SESSION["csrf_token"]);
                 } else {
                     unset($_SESSION["csrf_token"]);
-                    redirect(base_url('404'));
+                    return false;
                     exit;
                 }
             }
