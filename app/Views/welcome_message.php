@@ -35,7 +35,7 @@
 
     <div class="mb-4 bg-light rounded-3">
         <div class="container py-5">
-            <h1 class="display-6 fw-semibold">Welcome to CodeSurfing 1.0.0</h1>
+            <h1 class="display-6 fw-semibold">Welcome to CodeSurfing 1.1.0</h1>
             <p class="fs-5">The small framework with powerful features</p>
         </div>
     </div>
