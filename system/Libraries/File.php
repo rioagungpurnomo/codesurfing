@@ -54,10 +54,36 @@ class File
         }
     }
 
-    public static function remove($file)
+    public function create($tmp, $file, $content)
     {
-        if (file_exists($file)) {
-            unlink($file);
+        if (substr($tmp, strlen($tmp) - 1) == '/') {
+            $folder = $tmp;
+        } else {
+            $folder = $tmp . '/';
+        }
+
+        if (!file_exists($folder, $file)) {
+            $fp = fopen($folder . $file, "w");
+            fwrite($fp, $content);
+            fclose($fp);
+        } else {
+            echo '<script>alert("File ' . $file . ' failed to add!");</script>';
+        }
+    }
+
+    public static function delete($tmp, $file)
+    {
+        if (substr($tmp, strlen($tmp) - 1) == '/') {
+            $folder = $tmp;
+        } else {
+            $folder = $tmp . '/';
+        }
+
+        if (!file_exists($folder, $file)) {
+            if (unlink($file)) {
+            } else {
+                echo '<script>alert("File ' . $file . ' failed to delete!");</script>';
+            }
         } else {
             echo '<script>alert("File ' . $file . ' not found!");</script>';
         }

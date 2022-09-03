@@ -84,7 +84,7 @@
         <div class="bg-codesurfing py-5">
             <div class="container text-center text-white">
                 <p class="lead">
-                    <?= CS_LOADPAGE; ?>
+                    <?= load_page(); ?>
                 </p>
                 <p class="lead">Environment : <?= CS_ENVIRONMENT; ?></p>
             </div>

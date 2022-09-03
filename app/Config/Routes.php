@@ -18,7 +18,7 @@
 |
 | Please see the user guide for complete details:
 |
-|	https://codesurfing.com/userguide/general/routing
+|	https://codesurfing.herokuapp.com/docs/general/routing
 |
 | -------------------------------------------------------------------------
 | RESERVED ROUTES

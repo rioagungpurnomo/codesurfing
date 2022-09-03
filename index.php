@@ -6,6 +6,8 @@ require 'app/Config/Config.php';
 
 date_default_timezone_set($config['time_zone']);
 
+define('CS_ENVIRONMENT', $config['environment']);
+
 function load_page()
 {
     $start_time = microtime(TRUE);
@@ -14,9 +16,6 @@ function load_page()
     $time_taken = round($time_taken, 5);
     return "Page rendered in <strong>$time_taken</strong> seconds";
 }
-
-define('CS_ENVIRONMENT', $config['environment']);
-define('CS_LOADPAGE', load_page());
 
 function cs_notification($level, $message, $file, $line)
 {
