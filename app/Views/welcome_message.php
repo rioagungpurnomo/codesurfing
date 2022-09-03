@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to CodeSurfing</title>
     <link rel="shortcut icon" href="https://codesurfing.herokuapp.com/assets/images/favicon.ico" type="image/x-icon">
-    <link href="https://codesurfing.herokuapp.com/assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://codesurfing.herokuapp.com/assets/font-awesome/css/all.min.css" rel="stylesheet">
+    <link href="https://codesurfing.herokuapp.com/assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://codesurfing.herokuapp.com/assets/css/codesurfing.css" rel="stylesheet">
 </head>
 
@@ -74,7 +74,7 @@
                 </div>
                 <div class="flex-grow-1 ms-3">
                     <h5>Discuss</h5>
-                    <p class="fs-6">We take security seriously, with built-in protection against CSRF and XSS attacks. Version 4 adds context-sensitive escaping and CSP.</p>
+                    <p class="fs-6">CodeSurfing is a community-developed open source project, with several vanues for the community members to gather and exchange ideas. View all the threads <a href="https://codesurfing.herokuapp.com/forum" class="text-decoration-none text-codesurfing">CodeSurfing's forum</a> !</p>
                 </div>
             </div>
         </div>
