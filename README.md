@@ -9,7 +9,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/rioagungpurnomo/codesurfing.svg)](https://GitHub.com/rioagungpurnomo/codesurfing/graphs/contributors/)
 
 ```shell
--composer create-project codesurfing/appstarter
+composer create-project codesurfing/appstarter
 ```
 
 # What is CodeSurfing?
