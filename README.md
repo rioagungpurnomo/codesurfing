@@ -8,6 +8,10 @@
 [![GitHub license](https://img.shields.io/github/license/rioagungpurnomo/codesurfing.svg)](https://github.com/rioagungpurnomo/codesurfing/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/rioagungpurnomo/codesurfing.svg)](https://GitHub.com/rioagungpurnomo/codesurfing/graphs/contributors/)
 
+```shell
+-composer create-project codesurfing/appstarter
+```
+
 # What is CodeSurfing?
 
 CodeSurfing is a PHP full-stack web framework that is light, fast, flexible and secure. More information can be found at the [official site](https://codesurfing.my.id).
